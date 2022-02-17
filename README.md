@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gavin</h1>
 <h3 align="center">A Computer Science student in Ireland</h3>
 
-- 🔭 I’m currently working on **a BSCH in Computer Science**
+- 🔭 I’m currently working on **a BSCH in Computer Science** and Bootstrap 5 essential training
 
 - 🌱 I’m currently learning **Data Structures and Algorithms; PHP**
 
